@@ -1,1 +1,12 @@
-
+  id: 1
+	summary: the button on the registration page is not pressed after entering valid data
+	version: bild 325 
+	steps to reproduce: 1. 2. .3 .4. 5. 
+	severity: blocker
+	priority: high
+	expected result: A
+	actual result: B
+	status: new 
+	author: Maximov
+	assigned_to: Tutunov 
+	description: Chrome 98.0.4758.102 64 bit Windows 10

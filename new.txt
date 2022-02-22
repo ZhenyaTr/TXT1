@@ -1,0 +1,5 @@
+name: Ivan Ivanovosh Ivanov,
+age: 25,
+animals: 5,
+salary: 1000
+
